@@ -35,5 +35,5 @@ def  check_win(player, computer):
             return "Rock smashes scissors! You lose."    
 
 choices = get_choices() # retorna o dicionário inteiro com as escolhas do jogador e do computador
-result = check_win(choices["player"], choices["computer"]) # retorna os valores contidos em cada chave do dicionário -> a busca é feita pelo nome da chave
+result = check_win(choices["player"], choices["computer"]) # retorna os resultados dos valores contidos em cada chave do dicionário -> a busca é feita pelo nome da chave
 print(result)
