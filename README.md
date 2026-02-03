@@ -1,2 +1,2 @@
 # exercicios-python
-Exercícios feitos para desenvolver as minhas habilidades em bibliotecas e conceitos de POO em Python 3.12 e queries em SQL
+Exercícios feitos para desenvolver as minhas habilidades em bibliotecas e conceitos de POO em Python e queries em SQL
